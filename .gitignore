@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Generated figures and tables (keep folder)
+outputs/*
+!outputs/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
