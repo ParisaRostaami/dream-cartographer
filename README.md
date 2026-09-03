@@ -1,7 +1,5 @@
 # Dream Cartographer
 
-**Parisa Rostami** · Wichita State University · portfolio prototype, 2026
-
 A small computational phenomenology tool: it turns a dream journal into a 2D **dream atlas** (places that recur sit near each other) and a **motif graph** (which images co-occur across nights). It is not a clinical sleep instrument, not a large-language-model dream interpreter, and not an analysis of anyone's real nights. The bundled corpus is synthetic, written so that six planted images recur and intertwine.
 
 ## What it actually computes
